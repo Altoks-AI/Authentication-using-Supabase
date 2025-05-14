@@ -29,6 +29,7 @@ function Login() {
         redirectTo: `${window.location.origin}/dashboard`,
         queryParams: {
           prompt: 'select_account', // ✅ force Google to show account picker
+          response_mode: 'query',
         },
       },
     });
