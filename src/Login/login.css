@@ -1,0 +1,64 @@
+.login_page{
+    width: 100%;
+    height: 100vh;
+}
+
+.google_icon{
+    width: 25px;
+    position: relative;
+    left: -3%;
+    top: 5%;
+}
+.login_button{
+    position: absolute;
+    top: 55%;
+    left: 42%;
+    width: 220px;
+    height: 40px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.bar{
+    color: silver;
+    position: relative;
+    top: -10%;
+    left: 0%;
+    font-size: x-large;
+}
+.signin_text{
+    position: relative;
+    top: -6%;
+    font-size: 17px;
+    color: black;
+}
+
+.letsgetstarted{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 45px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    left: 32%;
+    top: 30%;
+}
+
+.letsgetstarted_desc{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    color: black;
+    position: absolute;
+    left: 33%;
+    top: 42%;
+}
+.terms_link,.privacypolicy_link{
+    color: #7436D7;
+}
+.getbackhome{
+    color: darkgray;
+    font-size: large;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
