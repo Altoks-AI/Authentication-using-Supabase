@@ -1,4 +1,3 @@
-// ./context/UserContext.jsx
 import React, { createContext, useContext, useState } from 'react';
 
 // Create the context for user data
