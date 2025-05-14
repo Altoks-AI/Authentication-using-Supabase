@@ -6,6 +6,7 @@
 npm create vite@latest 
 cd FolderName
 npm install
+npm install @supabase/supabase-js react-router-dom
 npm run dev
 ```
 
